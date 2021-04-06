@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    background-image: linear-gradient(135deg, #5c5c5c 33.33%, #383838 33.33%, #383838 50%, #5c5c5c 50%, #5c5c5c 83.33%, #383838 83.33%, #383838 100%);
+    background-size: 4.24px 4.24px;
+    display:flex;
+    justify-content: center;
+}
+
+body {
+    width: 70%;
+}
+
+.content-box {
+    background: #1d1d1d;
+    border-radius:5px;
+    color:#fff;
+}
